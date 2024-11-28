@@ -4,6 +4,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+# Nom et prénom du créateur
+st.title(":blue[TP sur la base de données IRIS !]")
+
 # Titre de l'application
 st.title("TP sur la base de données IRIS !")
 
